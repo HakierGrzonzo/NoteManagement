@@ -15,7 +15,7 @@ usage: `notatkor [-push] [-pull]`
 Before notatkor:
 ```
   Tmp/
-  Physics.Thermodynamics.Theory.Entropy.md
+    Physics.Thermodynamics.Theory.Entropy.md
   Notes/
   ```
 after:
