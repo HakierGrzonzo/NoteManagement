@@ -1,5 +1,5 @@
 # NoteManagement
-Program designed to help organise notes
+Program designed to help organise notes\n
 Program works with folders Notes/ and Tmp/ after invocation reads categories 
 from main file ( .md) and moves  content of Tmp/ directory to according sub directory in Notes/
 usage: notatkor [-push] [-pull]
